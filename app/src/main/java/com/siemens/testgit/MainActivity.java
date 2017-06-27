@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("MyLog", "99909");
 
-
+        Log.d("MyLog", "99909");
 
     }
 }
