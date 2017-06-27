@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("MyLog", "99909");
-
+        Log.d("MyLog", "99909");
         Log.d("MyLog", "99909");
 
     }
